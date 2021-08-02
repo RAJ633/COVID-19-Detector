@@ -16,7 +16,7 @@ It consists of
  * training of my model on the specified dataset
  * also included the confusion matrix for better analysis of the model
 
-About the Model:
+About the Model:                                                                                                                                                                      
 Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
