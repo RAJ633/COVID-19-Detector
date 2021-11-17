@@ -3,7 +3,7 @@ Detecting COVID-19 with the help of X-RAY Images (#Convolutional Neural Network 
 
 #AIM : Rapid Evalution of Covid Samples                                                                                                                                                                   
 In the recent times COVID-19 has become a burning topic all over the world. It had affected all of us in many aspects of our lives.
-Due to it's rigorous spread ,many of us are afraid it that whether they are attacked by it or not , so we go for testing but it takes certain time to get the result .
+Due to it's rigorous spread ,many of us are afraid of it, that whether they are attacked by it or not , so we go for testing but it takes certain time to get the result .
 so , here comes the importance of this COVID-19 Detector since rapid evalution is very important to stop spread of the virus.
 
 So, I had built a Deeping Learning Model with help of Convolutional Neural Network
@@ -55,5 +55,5 @@ Non-trainable params: 0
 
 
 CONCLUSION :                                                                                                                                                                      
-Though it is not 100% correct predictor but with help of rigorous training of the model on large dataset and also with help CT scan images we could certainly reach to some optimal level of prediction.
+Though it is not 100% correct predictor but with help of rigorous training of the model on large dataset and also with the help of CT scan images we could certainly reach to some optimal level of prediction.
 
